@@ -28,7 +28,7 @@ The `llama2.sh` script is a shell script that automates the execution of a Pytho
 
 First, clone the repository containing the `llama2.sh` script to your local machine. Use the following command:
 ```sh
-git clone https://github.com/your-repository/llama2.git
+git clone https://github.com/llama2.git
 cd llama2
 ```
 
